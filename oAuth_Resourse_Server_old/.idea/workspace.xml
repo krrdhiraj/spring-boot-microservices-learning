@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e14f38a-ab8d-4e88-af38-2bc6ca9e86f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-jpa-ecom/src/main/java/com/boot/jpa/ecom/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-jpa-ecom/src/main/java/com/boot/jpa/ecom/controller/PageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/config/AppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/config/securities/CustomAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/config/securities/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/config/securities/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/config/securities/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/controllers/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/controllers/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/controllers/PageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/controllers/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/controllers/VideoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/CategoryDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/CourseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/CustomMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/CustomPageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/CustomUserDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/ResourceContentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/RoleDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/dtos/VideoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/entities/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/entities/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/entities/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/entities/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/exceptions/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/repositories/CategoryRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/repositories/CourseRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/repositories/RoleRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/repositories/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/repositories/VideoRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/CourseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/CustomUserDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/FileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/VideoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/java/com/elearn/app/services/VideoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/resources/templates/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../start-learn-back/src/main/resources/templates/success.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2n3GSjomJ7WTtplXosEt5Ls2RHu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.StartLearnBackApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP.PC/Desktop/spring-boot-core/boot-mvc-example&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="StartLearnBackApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eLearn.app.StartLearnBackApplication" />
+      <module name="start-learn-back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eLearn.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartLearnBackApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e14f38a-ab8d-4e88-af38-2bc6ca9e86f3" name="Changes" comment="" />
+      <created>1728194347517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728194347517</updated>
+    </task>
+    <servers />
+  </component>
+</project>
