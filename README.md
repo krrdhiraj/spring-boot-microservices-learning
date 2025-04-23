@@ -1,6 +1,9 @@
 
 # 🧩 Spring Microservices Project from Scratch
 
+This is complete structure of Spring , Springboot , Monolithic and Microservices starting from scratch like Core Java , Java 8 features like (Stream API, Lamda & Functionl Interface) and going forward with spring ,JDBC , spring data JPA and go deeper into springboot with basic till JWT Authention and Authorization server.
+Anyone who wants to learn Complete Springboot + Microservices from scratch can follow this Repository.
+
 A robust, scalable, and secure Microservices-based application built using **Java 21**, **Spring Boot (latest)**, and **Spring Cloud**, integrated with **Keycloak** for modern JWT-based Authentication and Authorization.
 
 This project serves as a complete end-to-end example of how to build production-grade microservices using:
